@@ -1,17 +1,18 @@
 ---
 # Display name
-title: Eric Mungatana
+title: Robin Bourgeois
 
-weight: 3
+weight: 5 
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor, Environmental and Natural Resource Economics
+role: Futurist 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: CIRAD - UMR Art Dev
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,16 +26,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: "robin.bourgeois@cirad.fr"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -51,11 +44,10 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
 ## Short bio
-Prof Eric Mungatana is a resource and environmental economist with over 20 years post-PhD teaching and research experience in the Eastern and Southern Africa. He specializes in the application of stated preferences approaches to non-market valuation, ecosystem service economics, and water resource economics. 
+Dr. Robin Bourgeois ...
 
 ## Areas of Expertise
 ## Current activities related to public policies and governance in Africa

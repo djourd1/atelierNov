@@ -14,7 +14,7 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 
-authors: [bruno_losch]
+authors: [sylvain_perret]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -53,9 +53,7 @@ projects:
 math: true
 ---
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
+
 
 Slides can be added in a few ways:
 

@@ -1,21 +1,20 @@
 ---
 # Display name
-title: Eric Mungatana
+title: Centre for the Study of Governance Innovation (GovInn)
 
-weight: 3
+weight: 1
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor, Environmental and Natural Resource Economics
+role: Public Policies & Governance
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Pretoria
+  url: "http://governanceinnovation.org/"
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 
 # Social/Academic Networking
@@ -25,16 +24,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:bruno.losch@cirad.fr"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,13 +46,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Institutions
+
 ---
 
-## Short bio
-Prof Eric Mungatana is a resource and environmental economist with over 20 years post-PhD teaching and research experience in the Eastern and Southern Africa. He specializes in the application of stated preferences approaches to non-market valuation, ecosystem service economics, and water resource economics. 
+## Who are we ?
 
-## Areas of Expertise
-## Current activities related to public policies and governance in Africa
-## Five maximum relevant Publications related to public policies and governance
+## What are the major challenges in Africa we are working on
+
+## What are our major activities in the fields of governance and public policies

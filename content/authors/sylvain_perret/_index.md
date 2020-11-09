@@ -1,17 +1,18 @@
 ---
 # Display name
-title: Eric Mungatana
+title: Sylvain Perret
 
-weight: 3
+weight: 2
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor, Environmental and Natural Resource Economics
+role: Department Head
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: CIRAD - Environment and Societies
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,12 +51,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Institution Rep
 ---
 
 ## Short bio
-Prof Eric Mungatana is a resource and environmental economist with over 20 years post-PhD teaching and research experience in the Eastern and Southern Africa. He specializes in the application of stated preferences approaches to non-market valuation, ecosystem service economics, and water resource economics. 
+Dr. Sylvain Perret ...
 
 ## Areas of Expertise
 ## Current activities related to public policies and governance in Africa
